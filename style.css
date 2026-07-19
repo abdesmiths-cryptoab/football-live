@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial,sans-serif;
+  background:#111;
+  color:#fff;
+}
+
+header{
+  background:#0a7d2c;
+  padding:20px;
+  text-align:center;
+}
+
+header h1{
+  font-size:32px;
+}
+
+header p{
+  margin-top:10px;
+}
+
+main{
+  padding:20px;
+}
+
+h2{
+  margin-bottom:20px;
+}
+
+#matches{
+  background:#222;
+  padding:20px;
+  border-radius:10px;
+}
